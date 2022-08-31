@@ -8,3 +8,4 @@ Display current directory contents in long format, with use and group IDs displa
 6-Create a script that creates a directory named my_first_directory in the /tmp/ directory
 7-Move the file betty from /tmp/ to /tmp/my_first_directory
 8-deletes file betty
+9-Delete the directory my_first_directory that is in the /tmp directory
